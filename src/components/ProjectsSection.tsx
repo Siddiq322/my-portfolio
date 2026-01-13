@@ -38,7 +38,7 @@ export function ProjectsSection() {
         "Image/GIF/Sticker support with Cloudinary integration",
         "Responsive design for mobile and desktop"
       ],
-      liveUrl: "https://chat-frontend-spark.vercel.app/",
+      liveUrl: "https://real-chat-flow10.vercel.app",
       githubUrl: "https://github.com/Siddiq322/chat-frontend-spark",
       featured: true
     },
