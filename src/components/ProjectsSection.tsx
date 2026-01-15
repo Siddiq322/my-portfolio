@@ -59,6 +59,31 @@ export function ProjectsSection() {
       liveUrl: "https://skillswap-eta-lovat.vercel.app/",
       githubUrl: "",
       featured: true
+    },
+    {
+      title: "SecureGuard – Role-Based Cybersecurity Awareness Platform",
+      description: "SecureGuard is a web-based cybersecurity awareness and detection platform designed to demonstrate secure authentication, role-based access control, and common security analysis workflows. The application supports User and Admin roles. Users can analyze password strength and submit suspicious URLs or malware-related inputs, while Admins review these submissions and update results using external security tools (no real phishing or malware execution occurs within the platform). The project integrates Firebase Authentication with Google OAuth 2.0, uses Firestore for secure data storage, and is deployed with domain-restricted authentication to ensure security best practices. This project focuses on security awareness, cloud authentication, and real-world deployment challenges.",
+      technologies: [
+        "React",
+        "Firebase Authentication",
+        "Google OAuth 2.0",
+        "Firestore",
+        "TypeScript",
+        "Tailwind CSS",
+        "Render"
+      ],
+      features: [
+        "Role-based access control (User/Admin)",
+        "Password strength analysis",
+        "Suspicious URL submission system",
+        "Malware input detection",
+        "Admin review and update system",
+        "Domain-restricted authentication",
+        "Secure data storage with Firestore"
+      ],
+      liveUrl: "https://secureguard-6idy.onrender.com/",
+      githubUrl: "",
+      featured: true
     }
   ];
 
